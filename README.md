@@ -1,5 +1,7 @@
 # 📧 Notificação — Microsserviço de Envio de E-mails
 
+> 🎓 Projeto desenvolvido durante o curso da Javanauta Academy, com foco na construção de microsserviços independentes e comunicação entre serviços, incluindo envio de notificações por e-mail.
+
 Microsserviço responsável pelo envio de notificações por **e-mail** para os usuários da plataforma **Agendador de Tarefas**. Utiliza **Spring Boot 4**, **Java 21**, **Spring Mail** e templates HTML renderizados com **Thymeleaf**.
 
 ---
